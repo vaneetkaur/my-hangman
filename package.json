@@ -1,0 +1,20 @@
+{
+  "name": "my-hangman",
+  "version": "0.0.1",
+  "description": "my-hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaneetkaur/my-hangman"
+  },
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/vaneetkaur/my-hangman#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-session": "^1.14.0"
+  }
+}
